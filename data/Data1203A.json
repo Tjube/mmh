@@ -1,0 +1,206 @@
+[
+	{
+		"id":"1203A",
+		"shopname":"MediBang 教程",
+		"items":[
+			{
+				"id":"1",
+				"majorname":"",
+				"itemname":"MediBang Paint中文版官网",
+				"author": "",
+				"resUrl":"http://medibangpaint.com/zh_CN/",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"2",
+				"majorname":"",
+				"itemname":"常见软件问题及解答汇总（iPad版）",
+				"author": "MediBang",
+				"resUrl":"http://tieba.baidu.com/p/4072133742",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"3",
+				"majorname":"",
+				"itemname":"常见软件问题及解答汇总（Windows版）",
+				"author": "abunda",
+				"resUrl":"http://tieba.baidu.com/p/3886536616",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"4",
+				"majorname":"",
+				"itemname":"常见软件问题及解答汇总（Android版）",
+				"author": "粉乃团子",
+				"resUrl":"http://tieba.baidu.com/p/4460582966?fr=good",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"5",
+				"majorname":"",
+				"itemname":"【视频合集在线】MediBang Paint教学",
+				"author": "MediBang",
+				"resUrl":"http://space.bilibili.com/14496617/#!/index",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"6",
+				"majorname":"",
+				"itemname":"【视频合集在线】medibang官网黑白漫画制作教程",
+				"author": "",
+				"resUrl":"http://www.bilibili.com/video/av3073053/",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"7",
+				"majorname":"",
+				"itemname":"【视频在线】免费的正版软件-还在用盗版软件？那你就Out了！",
+				"author": "Akiyama Akira",
+				"resUrl":"http://www.bilibili.com/video/av4808217/",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"8",
+				"majorname":"",
+				"itemname":"【视频在线】Medibang paint pro 绘图软件入门教学-1",
+				"author": "游素蘭",
+				"resUrl":"http://www.bilibili.com/video/av5528756/",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"9",
+				"majorname":"",
+				"itemname":"【视频在线】Medibang paint pro 绘图软件入门教学-2",
+				"author": "游素蘭",
+				"resUrl":"http://www.bilibili.com/video/av5528799/",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"10",
+				"majorname":"",
+				"itemname":"【视频在线】卧槽！？这个软件可以一秒画蕾丝边！！！",
+				"author": "人肉时计",
+				"resUrl":"http://www.bilibili.com/video/av3412253/",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"11",
+				"majorname":"",
+				"itemname":"30分钟了解MedibangPaint",
+				"author": "粉乃团子",
+				"resUrl":"http://v.qq.com/x/page/g0162fx67x8.html",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"12",
+				"majorname":"",
+				"itemname":"模擬水墨繪畫（簡單過程）",
+				"author": "消す",
+				"resUrl":"http://tieba.baidu.com/p/4065189491",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"13",
+				"majorname":"",
+				"itemname":"指绘上色一条龙服务",
+				"author": "月色の深",
+				"resUrl":"http://tieba.baidu.com/p/4004069590",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"14",
+				"majorname":"",
+				"itemname":"CA草稿线稿上色一条龙",
+				"author": "Hono Bread",
+				"resUrl":" http://pan.baidu.com/s/1dD94V3j",
+				"itemstatus": "regular",
+				"remarks":"提取码：wm5i"
+			},
+			{
+				"id":"15",
+				"majorname":"",
+				"itemname":"使用CA涂色的教程",
+				"author": "にこま",
+				"resUrl":"hhttp://pan.baidu.com/s/1c0EWGta",
+				"itemstatus": "regular",
+				"remarks":"提取码：c2xu"
+			},
+			{
+				"id":"16",
+				"majorname":"",
+				"itemname":"用 MediBang Paint的上色教程",
+				"author": "绫冲瓧鏍尖櫑",
+				"resUrl":"http://tieba.baidu.com/p/3861621604",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"17",
+				"majorname":"",
+				"itemname":"【视频在线】【指绘】上色过程",
+				"author": "校服酱",
+				"resUrl":"hhttp://www.bilibili.com/video/av5661218/",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"18",
+				"majorname":"",
+				"itemname":"【视频在线】【Medibang性能测试】原创曲绘·紊",
+				"author": "异本生物",
+				"resUrl":"hhttp://www.bilibili.com/video/av3016252/",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"19",
+				"majorname":"",
+				"itemname":"【视频在线】小测试-Akil@绘制过程",
+				"author": "不安酱",
+				"resUrl":"http://www.bilibili.com/video/av4034543/",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"20",
+				"majorname":"",
+				"itemname":"MedibangPaint 快捷方式一览表",
+				"author": "abunda",
+				"resUrl":"http://tieba.baidu.com/p/4178946753",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"21",
+				"majorname":"",
+				"itemname":"安卓版＆iPad版的图片导出",
+				"author": "MediBang",
+				"resUrl":"http://tieba.baidu.com/p/3981363783",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"22",
+				"majorname":"",
+				"itemname":"选择范围的左右/上下反转",
+				"author": "MediBang",
+				"resUrl":"http://tieba.baidu.com/p/3981516563",
+				"itemstatus": "regular",
+				"remarks":""
+			}
+		]
+	}
+]

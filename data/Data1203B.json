@@ -1,0 +1,62 @@
+[
+	{
+		"id":"1203B",
+		"shopname":"MediBang 相关下载",
+		"items":[
+			{
+				"id":"1",
+				"majorname":"",
+				"itemname":"WMediBang Paint软件官方下载",
+				"author": "",
+				"resUrl":"http://medibangpaint.com/zh_CN/pc/",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"2",
+				"majorname":"",
+				"itemname":"MediBang Paint软件云盘下载",
+				"author": "",
+				"resUrl":"http://yun.baidu.com/pcloud/album/info?uk=2113971267&album_id=9077301264072908938",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"3",
+				"majorname":"",
+				"itemname":"各种漂亮的自制笔刷-持续更新中",
+				"author": "abunda",
+				"resUrl":"http://tieba.baidu.com/p/3921112376",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"4",
+				"majorname":"",
+				"itemname":"日本网友提供自制笔刷素材",
+				"author": "",
+				"resUrl":"http://tieba.baidu.com/p/3995653920",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"5",
+				"majorname":"",
+				"itemname":"绘画相关的资料（植物、人体、灯光颜色）",
+				"author": "abunda",
+				"resUrl":"http://yun.baidu.com/pcloud/album/info?uk=2113971267&album_id=4079997589526901943",
+				"itemstatus": "regular",
+				"remarks":""
+			},
+			{
+				"id":"6",
+				"majorname":"",
+				"itemname":"自制的四款笔刷",
+				"author": "mdeathearth",
+				"resUrl":"http://pan.baidu.com/share/link?shareid=743580896&uk=1296490125",
+				"itemstatus": "regular",
+				"remarks":""
+			}
+		]
+	}
+]

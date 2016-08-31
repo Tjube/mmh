@@ -1,0 +1,12 @@
+
+.frameshow{
+	position: relative; 
+	margin: 165px 0 0 180px;
+}
+
+@media screen and (max-device-width: 400px) {
+　　　.frameshow{
+		position: relative;
+		margin: 165px 0 0 300px;
+}
+}
