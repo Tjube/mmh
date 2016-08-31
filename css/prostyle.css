@@ -21,7 +21,7 @@ body{
 }
 #nav2 ul
 {
-
+	position: relative;
     list-style: none;
 }
 
@@ -85,6 +85,8 @@ body{
     padding:10px 10px 10px 20px;
 	border: 1px solid #c8e0f0;
 	margin-left:0px;
+	text-align:center;
+	position:relative;
 	
 	transition:margin-left 0.5s;
 	-moz-transition:margin-left 0.5s; /* Firefox 4 */
