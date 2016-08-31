@@ -1,6 +1,7 @@
 body{
 	text-align:center;
 }
+
 #banner{
 	width:980px;
 	height:100px;
@@ -9,18 +10,18 @@ body{
 	margin:-72px 0 0 270px;
 	
 }
-/*µÚ¶şµ¼º½À¸*/
+/*ç¬¬äºŒå¯¼èˆªæ */
 #nav2
 {
     width: 300px;
     /*background-image: url(../images/redNav.png);*/
     position: absolute;
 	margin:20px 0 0 -10px;
-
+	
 }
 #nav2 ul
 {
-    position: relative;
+
     list-style: none;
 }
 
@@ -33,10 +34,9 @@ body{
 }
 #nav2 ul li a:link, #nav2 ul li a:visited
 {
-    color: #4e6584; /*×¢ÒâĞŞ¸Ä³ÉºÚÏğ*/
-    font-family: Consolas;
-    font-size: 14px;
-	
+    color: #4e6584; /*æ³¨æ„ä¿®æ”¹æˆé»‘æ©¡*/
+    font-family: 'æ±‰ä»ªé»‘è”æä½“ç®€';
+
     transition: color 0.3s;
     -webkit-transition: color 0.3s;
     blr:expression(this.onFocus=this.blur());
@@ -70,7 +70,7 @@ body{
 #nav2 .two
 {
     list-style: none;
-    margin:20px 0 0 -75px;
+    margin:20px 0 0 -45px;
 	display:none;	
 }
 #nav2 .two a
@@ -78,13 +78,11 @@ body{
 	padding:5px 50px 5px 10px;
 	border-top:1px solid #c8e0f0;
 	border-bottom:1px solid #c8e0f0;
+	font-size: 16px;
 }
 #nav2 ul li label.year
 {
     padding:10px 10px 10px 20px;
-    text-align:center;
-    font-size:18px;
-	position:relative;
 	border: 1px solid #c8e0f0;
 	margin-left:0px;
 	

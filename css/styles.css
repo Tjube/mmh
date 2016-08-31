@@ -44,10 +44,30 @@ by Matt Graham
 
 @font-face {
   font-family: 'consola';
-  src: url("../fonts/consola��ttf");
-  font-weight: normal;
-  font-style: normal;
+  src: url("../fonts/consola.ttf");
+
 }
+
+@font-face {
+  font-family: '汉仪黑荔枝体简';
+  src: url("../fonts/汉仪黑荔枝体简.ttf");
+}
+
+@font-face {
+  font-family: '汉仪PP体简';
+  src: url("../fonts/汉仪PP体简.ttf");
+}
+
+@font-face {
+  font-family: '汉仪柏京体简';
+  src: url("../fonts/汉仪柏京体简.ttf");
+}
+
+@font-face {
+  font-family: '汉仪悠然体简';
+  src: url("../fonts/汉仪悠然体简.ttf");
+}
+
 
 /* normalize.css 2012-02-07T12:37 UTC - https://github.com/necolas/normalize.css */
 /* =============================================================================
