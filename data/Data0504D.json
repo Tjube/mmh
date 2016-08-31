@@ -1,4 +1,4 @@
-﻿[
+[
 	{
 		"id":"0504D",
 		"shopname":"法语视频教学",
@@ -21,7 +21,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"3",
 				"majorname":"",
 				"itemname":"简明法语教程",
@@ -30,7 +30,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"4",
 				"majorname":"",
 				"itemname":"法语视频教学",
@@ -39,7 +39,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"5",
 				"majorname":"",
 				"itemname":"法语基础入门学习（字母）",
@@ -48,7 +48,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"6",
 				"majorname":"",
 				"itemname":"法语基础入门学习（颜色）",
@@ -57,7 +57,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"7",
 				"majorname":"",
 				"itemname":"法语基础入门学习（法语问候语）",
@@ -66,7 +66,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"8",
 				"majorname":"",
 				"itemname":"法语基础入门学习（日子的表达）",
@@ -75,7 +75,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"9",
 				"majorname":"",
 				"itemname":"法语基础入门学习（星期）",
@@ -84,7 +84,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"10",
 				"majorname":"",
 				"itemname":"法语基础入门学习（月份）",
@@ -93,7 +93,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"11",
 				"majorname":"",
 				"itemname":"法语基础入门学习（数字0到20）",
@@ -102,7 +102,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"12",
 				"majorname":"",
 				"itemname":"法语基础入门学习（季节）",
@@ -111,7 +111,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"13",
 				"majorname":"",
 				"itemname":"法语基础入门学习（时间）",
@@ -120,7 +120,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"14",
 				"majorname":"",
 				"itemname":"法语基础入门学习（冠词）",
@@ -129,7 +129,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"15",
 				"majorname":"",
 				"itemname":"法语基础入门学习（词汇）",
@@ -138,7 +138,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"16",
 				"majorname":"",
 				"itemname":"法语基础入门学习（词汇—水果）",
@@ -147,7 +147,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"17",
 				"majorname":"",
 				"itemname":"法语基础入门学习（词汇—运动）",
@@ -156,15 +156,16 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"18",
 				"majorname":"",
 				"itemname":"法语基础入门学习（词汇）",
 				"author": "",
 				"resUrl":"http://v.dxsbb.com/waiyu/500/player-0-23.html",
+				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"19",
 				"majorname":"",
 				"itemname":"Conversation basique",
@@ -173,7 +174,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"20",
 				"majorname":"",
 				"itemname":"法语基础入门学习（动词变位）",

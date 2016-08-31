@@ -1,4 +1,4 @@
-﻿[
+[
 	{
 		"id":"0504B",
 		"shopname":"法语简单语法",
@@ -21,7 +21,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"3",
 				"majorname":"",
 				"itemname":"法语基础语法大全(新)",
@@ -30,7 +30,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"4",
 				"majorname":"",
 				"itemname":"法语简单语法",
@@ -39,7 +39,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"5",
 				"majorname":"",
 				"itemname":"法语语法-简易",
@@ -48,7 +48,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"6",
 				"majorname":"",
 				"itemname":"《法语语法》--法语初学者",
@@ -57,7 +57,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"7",
 				"majorname":"",
 				"itemname":"法语的基本语法描述",
@@ -66,7 +66,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"8",
 				"majorname":"",
 				"itemname":"法语语法大全(免费版)",
@@ -75,7 +75,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"9",
 				"majorname":"",
 				"itemname":"基础法语语法简单将来时",
@@ -84,7 +84,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"10",
 				"majorname":"",
 				"itemname":"法语语法总结",
@@ -93,7 +93,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"11",
 				"majorname":"",
 				"itemname":"法语语法大全",
@@ -102,7 +102,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"12",
 				"majorname":"",
 				"itemname":"法语基础语法",
@@ -111,7 +111,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"13",
 				"majorname":"",
 				"itemname":"法语基本语法",
@@ -120,7 +120,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"14",
 				"majorname":"",
 				"itemname":"史上最全最细致的法语语法总结",
@@ -129,7 +129,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"15",
 				"majorname":"",
 				"itemname":"法语第一册语法总结",
@@ -138,7 +138,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"16",
 				"majorname":"",
 				"itemname":"初级法语语法",
@@ -147,7 +147,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"17",
 				"majorname":"",
 				"itemname":"法语语法详解",
@@ -156,7 +156,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"18",
 				"majorname":"",
 				"itemname":"最新最全的法语语法整理大全",
@@ -165,21 +165,12 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"19",
 				"majorname":"",
 				"itemname":"法语语法",
 				"author": "",
 				"resUrl":"http://wenku.baidu.com/view/da1fa02c3169a4517723a34d.html?from=search",
-				"itemstatus": "regular",
-				"remarks":""
-			}
-                       {
-				"id":"20",
-				"majorname":"",
-				"itemname":"法语基本语法",
-				"author": "",
-				"resUrl":"http://wenku.baidu.com/view/9cf7a83c87c24028915fc37c.html?from=search",
 				"itemstatus": "regular",
 				"remarks":""
 			}

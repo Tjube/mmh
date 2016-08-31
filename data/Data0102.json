@@ -26,7 +26,7 @@
 				"majorname":"软件",
 				"itemname":"3DS Max",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.41/Yang_Meng/teaching plan/网站设计/1. 课件",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -35,7 +35,7 @@
 				"majorname":"软件",
 				"itemname":"ActivePerl_5.16.2.3010812913_Win64",
 				"author": "",
-				"resUrl":"ftp://211.71.149.87/曹佳/软件",
+				"resUrl":"ftp://211.71.149.41/Yang_Meng/teaching plan/网站设计/2. 实验",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -44,7 +44,7 @@
 				"majorname":"软件",
 				"itemname":"ActivePerl_5.8.0.806-MSWin32-x86",
 				"author": "",
-				"resUrl":"ftp://211.71.149.88/曹佳/软件",
+				"resUrl":"ftp://211.71.149.41//Yang_Meng/teaching plan/三维图形设计/1 课件",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -53,7 +53,7 @@
 				"majorname":"软件",
 				"itemname":"Adobe After Effects",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.41//Yang_Meng/teaching plan/三维图形设计/2 论文_实验_课程设计要求/1 实验与练习",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -62,7 +62,7 @@
 				"majorname":"软件",
 				"itemname":"Adobe Dreamweaver",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.41//Yang_Gang/teaching plan/游戏开发技术",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -71,7 +71,7 @@
 				"majorname":"软件",
 				"itemname":"Adobe Flash CS4",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/flash辅修",
+				"resUrl":"ftp://211.71.149.41//Yang_Gang/teaching plan/游戏开发技术/Unity3D实验指导书",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -80,7 +80,7 @@
 				"majorname":"软件",
 				"itemname":"Adobe Flash CS6",
 				"author": "",
-				"resUrl":ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.41//Yang_Gang/teaching plan/图形编程技术",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -89,7 +89,7 @@
 				"majorname":"软件",
 				"itemname":"Adobe Illustrator",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.41//Yang_Gang/teaching plan/图形编程技术/实验",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -98,7 +98,7 @@
 				"majorname":"软件",
 				"itemname":"Adobe Photoshop",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.41//Wang_Zhongzhi/teaching plan/面向对象程序设计语言A/PPT",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -107,7 +107,7 @@
 				"majorname":"软件",
 				"itemname":"Adobe_Audition_3.0.7283.0",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.41//Wang_Zhongzhi/teaching plan/面向对象程序设计语言A/PPT",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -116,7 +116,7 @@
 				"majorname":"软件",
 				"itemname":"Adobe_Media_Encoder_CS4_XiaZaiBa",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/flash辅修",
+				"resUrl":"ftp://211.71.149.41//Wang_Zhongzhi/teaching plan/图像处理/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -125,7 +125,7 @@
 				"majorname":"软件",
 				"itemname":"Adobe_Photoshop_CS6.7z",
 				"author": "",
-				"resUrl":"ftp://211.71.149.87/李群/课件/软件下载",
+				"resUrl":"ftp://211.71.149.41//Wang_Zhongzhi/teaching plan/图像处理/实验任务书",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -134,7 +134,7 @@
 				"majorname":"软件",
 				"itemname":"AdobeAIRInstaller",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/二维图形技术",
+				"resUrl":"ftp://211.71.149.41//Wang_Han/teaching plan/程序设计基础（C语言）",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -143,7 +143,7 @@
 				"majorname":"软件",
 				"itemname":"AIRSDK_Compiler",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/二维图形技术",
+				"resUrl":"ftp://211.71.149.41//Wang_Han/teaching plan/程序设计基础（C语言）",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -152,7 +152,7 @@
 				"majorname":"软件",
 				"itemname":"apache_1.3.17-win32-src",
 				"author": "",
-				"resUrl":"ftp://211.71.149.89/曹佳/软件",
+				"resUrl":"ftp://211.71.149.41//Wang_Han/teaching plan/移动媒体内容制作（软件）",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -161,7 +161,7 @@
 				"majorname":"软件",
 				"itemname":"apache-tomcat-7.0.39",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/赵方/授课材料/软件工程A和C实习所用软件/安装版tomcat",
+				"resUrl":"ftp://211.71.149.41//Wang_Han/teaching plan/数字音频技术及应用/PPT",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -170,7 +170,7 @@
 				"majorname":"软件",
 				"itemname":"apache-tomcat-7.0.39",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/赵方/授课材料/软件工程A和C实习所用软件",
+				"resUrl":"ftp://211.71.149.41//Wang_Han/teaching plan/数字音频技术及应用/实验",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -179,7 +179,7 @@
 				"majorname":"软件",
 				"itemname":"AsfToolscn",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/流媒体技术/参考软件/流媒体软件",
+				"resUrl":"ftp://211.71.149.41//Liu_Wenping/teaching plan/数字视频技术及应用",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -188,7 +188,7 @@
 				"majorname":"软件",
 				"itemname":"axure6.5汉化最新正式破解版本下载（有注册码）",
 				"author": "",
-				"resUrl":"ftp://202.204.121.57/李维老师讲义下载/信息系统可用性",
+				"resUrl":"ftp://211.71.149.41//Liu_Wenping/teaching plan/数字视频技术及应用/实验相关",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -197,7 +197,7 @@
 				"majorname":"软件",
 				"itemname":"BB.FlashBack2.6",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/田萱/授课材料/Tools",
+				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/数字媒体导论/讲义",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -206,7 +206,7 @@
 				"majorname":"软件",
 				"itemname":"Devcpp(for Win8)",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/徐秋红/授课材料/C语言",
+				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/数字媒体导论/实验任务",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -215,7 +215,7 @@
 				"majorname":"软件",
 				"itemname":"Dreamweaver 8",
 				"author": "",
-				"resUrl":"ftp://211.71.149.87/蔡祥/课件/计算机网络基础",
+				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/二维图形技术/讲义资料/脚本编程讲义",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -224,7 +224,7 @@
 				"majorname":"软件",
 				"itemname":"DTLite4355-0068",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Tools/",
+				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/专业概论",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -233,7 +233,7 @@
 				"majorname":"软件",
 				"itemname":"DXSDK_Jun10",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/Photoshop图像处理",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -242,7 +242,7 @@
 				"majorname":"软件",
 				"itemname":"EasyDarwin",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/流媒体技术",
+				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/flash辅修",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -251,7 +251,7 @@
 				"majorname":"软件",
 				"itemname":"eclipse-jee-galileo-SR2-win32",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/蔡娟/授课材料/Java语言程序设计/java软件",
+				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/C++/C++讲义",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -260,7 +260,7 @@
 				"majorname":"软件",
 				"itemname":"eclipse-jee-galileo-win32",
 				"author": "",
-				"resUrl":"ftp://211.71.149.22/蔡娟/授课材料/Java语言程序设计/java软件",
+				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/C++/C++实验",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -269,7 +269,7 @@
 				"majorname":"软件",
 				"itemname":"eclipse-jee-helios-win32",
 				"author": "",
-				"resUrl":"ftp://211.71.149.23/蔡娟/授课材料/Java语言程序设计/java软件",
+				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/数据结构",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -278,7 +278,7 @@
 				"majorname":"软件",
 				"itemname":"eclipse-jee-helios-win32-x86_64",
 				"author": "",
-				"resUrl":"ftp://211.71.149.24/蔡娟/授课材料/Java语言程序设计/java软件",
+				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/数据结构/实验要求",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -287,7 +287,7 @@
 				"majorname":"软件",
 				"itemname":"eclipse-jee-kepler-SR2-win32",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/赵方/授课材料/软件工程A和C实习所用软件",
+				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/多媒体技术及应用",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -296,7 +296,7 @@
 				"majorname":"软件",
 				"itemname":"eclipse-jee-kepler-SR2-win32-x86_64",
 				"author": "",
-				"resUrl":"ftp://211.71.149.22/赵方/授课材料/软件工程A和C实习所用软件",
+				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/多媒体技术及应用/ 实验",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -305,7 +305,7 @@
 				"majorname":"软件",
 				"itemname":"elipse",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/徐艳艳/授课材料/问题求解与编程",
+				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/图像处理算法及应用",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -314,7 +314,7 @@
 				"majorname":"软件",
 				"itemname":"Endnote x7",
 				"author": "",
-				"resUrl":"ftp://202.204.121.57/李昀老师讲义下载/IRM",
+				"resUrl":"ftp://211.71.149.41//Cao_Weiqun/teaching plan/cg/课件",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -323,7 +323,7 @@
 				"majorname":"软件",
 				"itemname":"Endote x6",
 				"author": "",
-				"resUrl":"ftp://202.204.121.57/李昀老师讲义下载/IRM",
+				"resUrl":"ftp://211.71.149.87//课件/大学计算机基础",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -332,7 +332,7 @@
 				"majorname":"软件",
 				"itemname":"ethereal-setup-0.99.0",
 				"author": "",
-				"resUrl":"ftp://211.71.149.90/曹佳/软件",
+				"resUrl":"ftp://211.71.149.21//授课材料/计算机辅修",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -341,7 +341,7 @@
 				"majorname":"软件",
 				"itemname":"EW8051-EV-751A",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/李巨虎/授课材料/数据采集/实验",
+				"resUrl":"ftp://211.71.149.21//授课材料/计算机导论",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -350,7 +350,7 @@
 				"majorname":"软件",
 				"itemname":"Foxit_Phantom_PDF",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Tools/",
+				"resUrl":"ftp://211.71.149.21//授课材料/计算机体系结构",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -359,7 +359,7 @@
 				"majorname":"软件",
 				"itemname":"HelixServer11.1破解版",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/流媒体技术/参考软件/流媒体软件",
+				"resUrl":"ftp://211.71.149.87//课件/计算机网络基础",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -368,7 +368,7 @@
 				"majorname":"软件",
 				"itemname":"HFSS10_Win",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/李巨虎/授课材料/rfid/hfss",
+				"resUrl":"ftp://211.71.149.87//课件/计算机网络基础",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -377,7 +377,7 @@
 				"majorname":"软件",
 				"itemname":"hp黑色打印机驱程",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/吴正宇/授课材料/software",
+				"resUrl":"ftp://211.71.149.87//讲稿/计算机网络基础",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -386,16 +386,16 @@
 				"majorname":"软件",
 				"itemname":"Install Flash Player v10.0",
 				"author": "",
-				"resUrl":"ftp://211.71.149.91/曹佳/软件",
+				"resUrl":"ftp://202.204.121.57/老师讲义下载/计算机网络（双语——软件专业）",
 				"itemstatus": "regular",
-				"remarks":""
+				"remarks":"用户名net无密码"
 			},
 			{
 				"id":"44",
 				"majorname":"软件",
 				"itemname":"install-ietester-v0.5.4.141698818",
 				"author": "",
-				"resUrl":"ftp://211.71.149.25/孙俏/网站设计/软件下载",
+				"resUrl":"ftp://211.71.149.87//讲稿/计算机网络",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -404,7 +404,7 @@
 				"majorname":"软件",
 				"itemname":"Jdk-7u71-windows-x64",
 				"author": "",
-				"resUrl":"ftp://211.71.149.24/赵方/授课材料/软件工程A和C实习所用软件",
+				"resUrl":"ftp://211.71.149.87//讲稿/2016_计算机网络B",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -413,7 +413,7 @@
 				"majorname":"软件",
 				"itemname":"KinectDeveloperToolkit-v1.8.0-Setup",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Wang_Han/software",
+				"resUrl":"ftp://211.71.149.21//授课材料/无线网络/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -422,7 +422,7 @@
 				"majorname":"软件",
 				"itemname":"KinectSDK-v1.8-Setup",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Wang_Han/software",
+				"resUrl":"ftp://211.71.149.21//授课材料/计算机应用基础/课件下载",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -431,7 +431,7 @@
 				"majorname":"软件",
 				"itemname":"M2727series-win7-full-solution-v5.2-AP",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/",
+				"resUrl":"ftp://211.71.149.21//授课材料/计算机应用基础",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -440,7 +440,7 @@
 				"majorname":"软件",
 				"itemname":"Mathworks Matlab R2014a.iso",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Wang_Han/software",
+				"resUrl":"ftp://211.71.149.21//授课材料/计算机应用基础",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -449,7 +449,7 @@
 				"majorname":"软件",
 				"itemname":"MediaKey",
 				"author": "",
-				"resUrl":"ftp://211.71.149.92/曹佳/软件",
+				"resUrl":"ftp://211.71.149.21//授课材料/本科生/计算机组成原理A/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -458,7 +458,7 @@
 				"majorname":"软件",
 				"itemname":"MediaKey控制软件",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Tools/",
+				"resUrl":"ftp://211.71.149.21//授课材料/本科生/计算机组成原理B/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -467,7 +467,7 @@
 				"majorname":"软件",
 				"itemname":"Microsoft Office 2007",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Tools/",
+				"resUrl":"ftp://211.71.149.21//授课材料/物联网应用/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -476,7 +476,7 @@
 				"majorname":"软件",
 				"itemname":"Navicat for mysql10.011简体中文破解版",
 				"author": "",
-				"resUrl":"ftp://211.71.149.23/赵方/授课材料/软件工程A和C实习所用软件",
+				"resUrl":"ftp://211.71.149.87//课件/计算机硬件与系统软件实验",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -485,7 +485,7 @@
 				"majorname":"软件",
 				"itemname":"NavicatforMySQL",
 				"author": "",
-				"resUrl":"ftp://211.71.149.22/田萱/授课材料/Tools",
+				"resUrl":"ftp://211.71.149.87//课件/计算机网络安全",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -494,7 +494,7 @@
 				"majorname":"软件",
 				"itemname":"office 2007",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/李冬梅/授课材料/tool",
+				"resUrl":"ftp://211.71.149.87//讲稿/2016_计算机网络安全",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -503,7 +503,7 @@
 				"majorname":"软件",
 				"itemname":"office_2013中文专业版（64）位",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/",
+				"resUrl":"ftp://211.71.149.87//课件/交换与路由",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -512,16 +512,16 @@
 				"majorname":"软件",
 				"itemname":"Office_Visio_Pro_2007",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/李冬梅/授课材料/tool",
+				"resUrl":"ftp://202.204.121.57/老师讲义下载/数学08面向对象程序设计",
 				"itemstatus": "regular",
-				"remarks":""
+				"remarks":"用户名mis无密码"
 			},
 			{
 				"id":"58",
 				"majorname":"软件",
 				"itemname":"Office2010",
 				"author": "",
-				"resUrl":"ftp://211.71.149.88/李群/课件/软件下载",
+				"resUrl":"ftp://211.71.149.21//授课材料/本科生/面向对象程序设计B/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -530,7 +530,7 @@
 				"majorname":"软件",
 				"itemname":"Office2010激活工具",
 				"author": "",
-				"resUrl":"ftp://211.71.149.89/李群/课件/软件下载",
+				"resUrl":"ftp://211.71.149.21//授课材料/程序设计基础/课件",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -539,16 +539,16 @@
 				"majorname":"软件",
 				"itemname":"PhotoshopCS6_13_LS3",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/徐艳艳/授课材料/计算机应用基础",
+				"resUrl":"ftp://202.204.121.57/老师讲义下载/C语言课件",
 				"itemstatus": "regular",
-				"remarks":""
+				"remarks":"用户名mis无密码"
 			},
 			{
 				"id":"61",
 				"majorname":"软件",
 				"itemname":"PremierePro_6_LS7",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.21//授课材料/C语言/0000000000000-讲义-201x",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -557,7 +557,7 @@
 				"majorname":"软件",
 				"itemname":"QuickTimeInstaller",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/flash辅修",
+				"resUrl":"ftp://211.71.149.21//授课材料/C语言",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -566,16 +566,16 @@
 				"majorname":"软件",
 				"itemname":"RealCoder",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_softsare/视频解码器",
+				"resUrl":"ftp://202.204.121.57/老师讲义下载/c++",
 				"itemstatus": "regular",
-				"remarks":""
+				"remarks":"用户名cpp无密码"
 			},
 			{
 				"id":"64",
 				"majorname":"软件",
 				"itemname":"RealOnePlayerV2GOLD_cn",
 				"author": "",
-				"resUrl":"/Fu_Hui/teaching plan/流媒体技术/参考软件/流媒体软件",
+				"resUrl":"ftp://211.71.149.21//授课材料/c++",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -584,7 +584,7 @@
 				"majorname":"软件",
 				"itemname":"RealProducerPlus-v11.0",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/流媒体技术/参考软件/流媒体软件",
+				"resUrl":"ftp://211.71.149.21//授课材料/Java语言程序设计/讲义",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -593,7 +593,7 @@
 				"majorname":"软件",
 				"itemname":"realslideshow_2.0_setup",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/流媒体技术/参考软件/流媒体软件",
+				"resUrl":"ftp://211.71.149.21//授课材料/Java/课件",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -602,7 +602,7 @@
 				"majorname":"软件",
 				"itemname":"Sublime text2 emmet",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/孙俏/网站设计/软件下载",
+				"resUrl":"ftp://211.71.149.21//授课材料/Java EE/slides",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -611,7 +611,7 @@
 				"majorname":"软件",
 				"itemname":"Sublime_Text3_x64.7z",
 				"author": "",
-				"resUrl":"ftp://211.71.149.22/孙俏/网站设计/软件下载",
+				"resUrl":"ftp://211.71.149.21//授课材料/senior java programing language",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -620,7 +620,7 @@
 				"majorname":"软件",
 				"itemname":"Sublime_Text3_x86.7z",
 				"author": "",
-				"resUrl":"ftp://211.71.149.23/孙俏/网站设计/软件下载",
+				"resUrl":"ftp://211.71.149.21//授课材料/java programing language",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -629,7 +629,7 @@
 				"majorname":"软件",
 				"itemname":"ubuntu-14.04.3",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Wang_Han/software",
+				"resUrl":"ftp://211.71.149.21//vb",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -638,7 +638,7 @@
 				"majorname":"软件",
 				"itemname":"UltraEdit-32",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Tools/",
+				"resUrl":"ftp://211.71.149.21//授课材料/UML/slides/2014",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -647,16 +647,16 @@
 				"majorname":"软件",
 				"itemname":"UnitySetup-4.3.4",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Wang_Han/software",
+				"resUrl":"ftp://202.204.121.57/老师讲义下载/Web应用程序开发/课件",
 				"itemstatus": "regular",
-				"remarks":""
+				"remarks":"用户名cpp无密码"
 			},
 			{
 				"id":"73",
 				"majorname":"软件",
 				"itemname":"VC++.6.0with.SP6.ISO",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/王春玲/授课材料/常用软件",
+				"resUrl":"ftp://211.71.149.21//授课材料/汇编语言程序设计",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -665,7 +665,7 @@
 				"majorname":"软件",
 				"itemname":"Virtools",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.87//课件/网络编程",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -674,7 +674,7 @@
 				"majorname":"软件",
 				"itemname":"Visual Stdio 6.0-win7",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/蔡娟/授课材料/C语言/0000-C开发环境",
+				"resUrl":"ftp://211.71.149.21//授课材料/问题求解与编程",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -683,7 +683,7 @@
 				"majorname":"软件",
 				"itemname":"Visual Stdio6.0",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/李冬梅/授课材料/tool",
+				"resUrl":"ftp://211.71.149.21//授课材料/数据仓库与数据挖掘概述/课件下载",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -692,7 +692,7 @@
 				"majorname":"软件",
 				"itemname":"Visual Studio",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Development Software",
+				"resUrl":"ftp://211.71.149.87//课件/数据库原理及应用",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -701,7 +701,7 @@
 				"majorname":"软件",
 				"itemname":"VM10注册机",
 				"author": "",
-				"resUrl":"ftp://211.71.149.21/孙钰/授课材料/IOS/VMware-workstation-full",
+				"resUrl":"ftp://211.71.149.21//授课材料/database/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -710,7 +710,7 @@
 				"majorname":"软件",
 				"itemname":"weka-3-6-8",
 				"author": "",
-				"resUrl":"ftp://211.71.149.93/曹佳/软件",
+				"resUrl":"ftp://211.71.149.21//授课材料/数据库技术",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -719,7 +719,7 @@
 				"majorname":"软件",
 				"itemname":"windows_7SP1中文专业版",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software",
+				"resUrl":"ftp://211.71.149.21//授课材料/数据库系统/课件下载",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -728,7 +728,7 @@
 				"majorname":"软件",
 				"itemname":"windows_7激活客户端",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/",
+				"resUrl":"ftp://211.71.149.21//授课材料/数据结构/讲稿",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -737,7 +737,7 @@
 				"majorname":"软件",
 				"itemname":"WinPcap",
 				"author": "",
-				"resUrl":"ftp://211.71.149.94/曹佳/软件",
+				"resUrl":"ftp://211.71.149.21//授课材料/数据采集/课件",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -746,7 +746,7 @@
 				"majorname":"软件",
 				"itemname":"WinRAR_3.93_SC",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Tools/",
+				"resUrl":"ftp://211.71.149.21//授课材料/大数据-云计算",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -755,7 +755,7 @@
 				"majorname":"软件",
 				"itemname":"wmencoder71",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/流媒体技术/参考软件/流媒体软件",
+				"resUrl":"ftp://211.71.149.87//课件/操作系统",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -764,7 +764,7 @@
 				"majorname":"软件",
 				"itemname":"XnView-win-full",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Tools/",
+				"resUrl":"ftp://211.71.149.21//授课材料/os/课件",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -773,7 +773,7 @@
 				"majorname":"软件",
 				"itemname":"X-Scan-v3.3",
 				"author": "",
-				"resUrl":"ftp://211.71.149.95/曹佳/软件",
+				"resUrl":"ftp://211.71.149.21//授课材料/操作系统B",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -782,7 +782,7 @@
 				"majorname":"软件",
 				"itemname":"Zoomlt",
 				"author": "",
-				"resUrl":"ftp://202.204.121.57/王海燕老师讲义下载/财务信息管理",
+				"resUrl":"ftp://211.71.149.21//授课材料/数据结构C",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -791,7 +791,7 @@
 				"majorname":"软件",
 				"itemname":"会声会影.X4+安装包",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Computer Graphics Art",
+				"resUrl":"ftp://211.71.149.21//Android/PPT",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -800,7 +800,7 @@
 				"majorname":"软件",
 				"itemname":"金山词霸2011",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/_software/Tools/",
+				"resUrl":"ftp://211.71.149.21//授课材料/嵌入式系统",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -809,7 +809,7 @@
 				"majorname":"软件",
 				"itemname":"注册码.txt",
 				"author": "",
-				"resUrl":"ftp://202.204.121.57/李维老师讲义下载/信息系统可用性",
+				"resUrl":"ftp://211.71.149.21//授课材料/本科生/嵌入式系统A/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -818,7 +818,7 @@
 				"majorname":"软件",
 				"itemname":"抓图软件",
 				"author": "",
-				"resUrl":"ftp://211.71.149.23/田萱/授课材料/Tools",
+				"resUrl":"ftp://211.71.149.21//授课材料/软件体系结构/tx-ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -827,52 +827,52 @@
 				"majorname":"软件",
 				"itemname":"抓图软件HyperSnap_6.61.05_SC",
 				"author": "",
-				"resUrl":"ftp://211.71.149.24/孙俏/网站设计/软件下载",
+				"resUrl":"ftp://211.71.149.21//授课材料/本科生/软件分析与建模",
 				"itemstatus": "regular",
 				"remarks":""
 			},
 			{
 				"id":"93",
-				"majorname":"电子书",
+				"majorname":"软件",
 				"itemname":"计算机动画原理与技术",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/Yang_Meng/teaching plan/计算机动画原理与技术/今年课件/2. 参考书",
+				"resUrl":"ftp://211.71.149.21//授课材料/软件工程A/讲稿",
 				"itemstatus": "regular",
 				"remarks":""
 			},
 			{
 				"id":"94",
-				"majorname":"电子书",
+				"majorname":"软件",
 				"itemname":"Visual C++ 2005 入门经典",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41/Yang_Meng/teaching plan/资料",
+				"resUrl":"ftp://211.71.149.21//授课材料/软件工程B/讲稿",
 				"itemstatus": "regular",
 				"remarks":""
 			},
 			{
 				"id":"95",
-				"majorname":"电子书",
+				"majorname":"软件",
 				"itemname":"kinect",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Yang_Meng/teaching plan/kinect",
+				"resUrl":"ftp://211.71.149.21//授课材料/软件工程C/讲稿",
 				"itemstatus": "regular",
 				"remarks":""
 			},
 			{
 				"id":"96",
-				"majorname":"电子书",
+				"majorname":"软件",
 				"itemname":"游戏开发技术",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Yang_Gang/teaching plan/游戏开发技术/Unity3D实验指导书",
+				"resUrl":"ftp://211.71.149.21//授课材料/software architecture/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
 			{
 				"id":"97",
-				"majorname":"电子书",
+				"majorname":"软件",
 				"itemname":"图像处理",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Wang_Zhongzhi/teaching plan/图像处理/参考资料",
+				"resUrl":"ftp://211.71.149.21//授课材料/software engineering/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -881,7 +881,7 @@
 				"majorname":"电子书",
 				"itemname":"C语言",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Wang_Han/teaching plan/程序设计基础（C语言）",
+				"resUrl":"ftp://211.71.149.21//授课材料/software estimation/ppt",
 				"itemstatus": "regular",
 				"remarks":""
 			},
@@ -890,16 +890,16 @@
 				"majorname":"电子书",
 				"itemname":"ActionScript 3.0 开发人员指南",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Huai_Yongjian/teaching plan/二维图形技术",
+				"resUrl":"ftp://202.204.121.57/老师讲义下载/软件检索",
 				"itemstatus": "regular",
-				"remarks":""
+				"remarks":"用户名fim无密码"
 			},
 			{
 				"id":"100",
 				"majorname":"电子书",
 				"itemname":"图像处理算法及应用",
 				"author": "",
-				"resUrl":"ftp://211.71.149.41//Fu_Hui/teaching plan/图像处理算法及应用/参考资料",
+				"resUrl":"ftp://211.71.149.87//讲稿/搜索引擎",
 				"itemstatus": "regular",
 				"remarks":""
 			}

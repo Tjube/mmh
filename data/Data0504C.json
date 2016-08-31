@@ -21,7 +21,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"3",
 				"majorname":"",
 				"itemname":"法语日常用语",
@@ -30,7 +30,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"4",
 				"majorname":"",
 				"itemname":"法语日常用语  口语",
@@ -39,7 +39,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"5",
 				"majorname":"",
 				"itemname":"法语日常用语",
@@ -48,7 +48,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"6",
 				"majorname":"",
 				"itemname":"法语中文谐音",
@@ -57,7 +57,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"7",
 				"majorname":"",
 				"itemname":"法语日常会话1200句",
@@ -66,7 +66,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"8",
 				"majorname":"",
 				"itemname":"法语日常用语300句",
@@ -75,7 +75,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"9",
 				"majorname":"",
 				"itemname":"法语日常用语",
@@ -84,7 +84,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"10",
 				"majorname":"",
 				"itemname":"法语日常用语",
@@ -93,7 +93,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"11",
 				"majorname":"",
 				"itemname":"法语日常用语中文发音",
@@ -102,7 +102,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"12",
 				"majorname":"",
 				"itemname":"法语日常用语中文发音",
@@ -111,7 +111,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"13",
 				"majorname":"",
 				"itemname":"法语常用口语",
@@ -120,7 +120,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"14",
 				"majorname":"",
 				"itemname":"法语发音：最常用到的20句法语口语",
@@ -129,7 +129,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"15",
 				"majorname":"",
 				"itemname":"常用法语100句",
@@ -138,7 +138,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"16",
 				"majorname":"",
 				"itemname":"常用法语100句（附汉语音译）",
@@ -147,7 +147,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"17",
 				"majorname":"",
 				"itemname":"日常法语日语100句",
@@ -156,15 +156,16 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"18",
 				"majorname":"",
 				"itemname":"100句常用法语",
 				"author": "",
 				"resUrl":"http://wenku.baidu.com/link?url=bmguz0P3fNsmHPhRMAOnTp4w4tTlbFRNAMrdskwtbVebFP_xBmR0gYvmuVtU2o4xHYNRbbD6vIvQUtimCzWfsGky9z4Ln_axrz6D-yiHA0u",				"itemstatus": "regular",
+				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"19",
 				"majorname":"",
 				"itemname":"法语常用100句",

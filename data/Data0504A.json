@@ -1,4 +1,4 @@
-﻿[
+[
 	{
 		"id":"0504A",
 		"shopname":"法语发音表",
@@ -21,7 +21,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"3",
 				"majorname":"",
 				"itemname":"法语字母表及发音",
@@ -30,7 +30,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"4",
 				"majorname":"",
 				"itemname":"法语读音规则总表",
@@ -39,7 +39,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"5",
 				"majorname":"",
 				"itemname":"法语音素与读音规则表",
@@ -48,7 +48,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"6",
 				"majorname":"",
 				"itemname":"法语26个字母和音标",
@@ -57,7 +57,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"7",
 				"majorname":"",
 				"itemname":"法语",
@@ -66,7 +66,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"8",
 				"majorname":"",
 				"itemname":"法语的26个字母发音及简单法语中文发音",
@@ -75,7 +75,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"9",
 				"majorname":"",
 				"itemname":"法语26个字母的发音",
@@ -84,16 +84,16 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"10",
 				"majorname":"",
-				"itemname":"法语26字母发音法语法国网站原创精华版 ",
+				"itemname":"法语26字母发音法语法国网站原创精华版",
 				"author": "",
 				"resUrl":"http://www.myfrfr.com/frfr/view.asp?id=4089",
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"11",
 				"majorname":"",
 				"itemname":"法语字母发音",
@@ -102,7 +102,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"12",
 				"majorname":"",
 				"itemname":"法语音素发音表",
@@ -111,7 +111,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"13",
 				"majorname":"",
 				"itemname":"法语音标详解,发音规则详解",
@@ -120,7 +120,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"14",
 				"majorname":"",
 				"itemname":"法语音素与读音规则表",
@@ -129,7 +129,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"15",
 				"majorname":"",
 				"itemname":"法语音标发音表",
@@ -138,7 +138,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                        {
+			{
 				"id":"16",
 				"majorname":"",
 				"itemname":"法语的36个音素发音规则表",
@@ -147,7 +147,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"17",
 				"majorname":"",
 				"itemname":"法语音素与读音规则表",
@@ -156,15 +156,16 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"18",
 				"majorname":"",
 				"itemname":"法语音素一览表",
 				"author": "",
-				"resUrl":"http://wenku.baidu.com/link?url=39q5iHrFZzG4Rm9zS0WXM3Poel1rabp1jGksNrkeE6qQ4FXJLBUq7ueOgwxYe3krEAhleMpXWMwfyKK_JG3uWBShFzEYqUtM0huBOMCKdiS",				"itemstatus": "regular",
+				"resUrl":"http://wenku.baidu.com/link?url=39q5iHrFZzG4Rm9zS0WXM3Poel1rabp1jGksNrkeE6qQ4FXJLBUq7ueOgwxYe3krEAhleMpXWMwfyKK_JG3uWBShFzEYqUtM0huBOMCKdiS",	
+				"itemstatus": "regular",
 				"remarks":""
 			},
-                       {
+			{
 				"id":"19",
 				"majorname":"",
 				"itemname":"法语音素-音标版",
@@ -173,7 +174,7 @@
 				"itemstatus": "regular",
 				"remarks":""
 			},
-            {
+			{
 				"id":"20",
 				"majorname":"",
 				"itemname":"法语音素表",
